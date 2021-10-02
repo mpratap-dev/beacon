@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Pchat",
-    "slug": "Pchat",
+    "name": "Beacon",
+    "slug": "beacon",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A simple chat application",
+    "githubUrl": "https://github.com/mpratap-dev/beacon.git"
   }
 }
